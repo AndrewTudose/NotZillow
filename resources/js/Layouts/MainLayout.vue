@@ -5,7 +5,7 @@
                 <div class="text-lg font-medium">
                     <Link :href="route('listing.index')"> Listings</Link>
                 </div>
-                <div class="text-xl text-indigo-600 dark:text-indigo-300 font-bold text-center">
+                <div class="text-xl text-blue-600 dark:text-blue-300 font-bold text-center">
                     <Link :href="route('listing.index')"> NotZillow</Link>
                 </div>
                 <div v-if="user" class="flex items-center gap-4">

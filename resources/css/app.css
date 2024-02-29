@@ -21,7 +21,7 @@
         @apply bg-gray-600 hover:bg-gray-500 text-white font-medium p-2 rounded-md
     }
     .btn-primary {
-        @apply bg-indigo-600 hover:bg-indigo-500 text-white font-medium p-2 rounded-md
+        @apply bg-blue-600 hover:bg-blue-500 text-white font-medium p-2 rounded-md
     }
 
     .btn-outline {
